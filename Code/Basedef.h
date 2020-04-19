@@ -115,7 +115,7 @@
 #define		MAX_CLASS				4
 
 #define		MAX_LEVEL				399
-#define		MAX_CLEVEL				199
+#define		MAX_CLEVEL				399
 
 #define		MAX_CLASSMASTER			4
 
